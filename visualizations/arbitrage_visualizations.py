@@ -644,6 +644,13 @@ for ax, (column, title, ylabel, color) in zip(axes, chart_details):
         top_data[column]
     )
 
+    ax.bar_label(
+        ax.containers[-1],
+        fmt="%.1f",
+        padding=3,
+        fontsize=8
+    )
+
     ax.set_title(title)
     ax.set_xlabel(ylabel)
     ax.set_ylabel("Container ID")
