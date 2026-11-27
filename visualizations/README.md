@@ -18,12 +18,19 @@ The objective is to represent shipment, sensor, and market price data through cl
 - Matplotlib
 - Seaborn
 
-## Planned Visualizations
-1. Temperature Analysis
-2. Humidity Analysis
-3. Sensor Data Trends
-4. Shipment Analysis
-5. Market Price Comparison
+## Completed Visualizations
+1. Price Gap by Product
+2. Positive and Negative Margins
+3. Product-wise Gross Margin
+4. Shipment Count by Product
+5. Top 10 Price Opportunities
+6. City-wise Product Price Heatmap
+7. Route Cost Comparison
+8. Container Capacity Analysis
+9. Sensor Performance Analysis
+10. Shipment Analysis
+11. Same Day Price Comparison
+12. Final Project Overview
 
 ## Current Status
-Visualization documentation and analysis planning.
+Data visualization charts have been created and saved. The Python visualization script and chart outputs are available in this folder.
