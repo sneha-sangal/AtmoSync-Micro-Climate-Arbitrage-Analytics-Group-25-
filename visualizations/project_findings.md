@@ -38,8 +38,15 @@ AtmoSync focuses on micro-climate monitoring, shipment analysis, product price c
 - Sensor readings provide useful information about container conditions.
 - Cost data is not available for every price comparison.
 
-## 4. Conclusion
+## 4. Visualization-Specific Observations
+- The price gap chart compares price differences across products.
+- The gross margin charts show positive and negative estimated margins, along with product-wise comparisons.
+- The shipment count chart shows that bananas have the highest shipment count, with 113 shipments.
+- The sensor performance chart compares containers by average temperature, humidity, and vibration.
+- The same-day price comparison and final project overview charts summarize price comparisons and project findings.
+
+## 5. Conclusion
 The visualizations provide an overview of shipment patterns, price differences, container conditions, and estimated gross margins.
 
-## 5. Disclaimer
+## 6. Disclaimer
 Estimated gross margins are analytical estimates based on available data and should not be considered confirmed profits.
